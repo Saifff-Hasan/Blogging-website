@@ -1,0 +1,24 @@
+.post {
+    width: 100%;
+}
+.post-content {
+    padding: 10px;
+
+}
+.post-content h3 {
+    font-size: 2.5vw;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.post-content span {
+    font-size: 1vw;
+}
+.blog-image {
+    background-color: black;
+    height: 35vw;
+    width: 100%;
+}
+.blog-image img{
+    height: 35vw;
+    width: 100%;
+    opacity: 0.8;
+}
